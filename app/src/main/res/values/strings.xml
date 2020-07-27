@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatJerico Two Screens</string>
+    <string name="enviar">Enviar</string>
+    <string name="chatTwoScreens">Receive Text</string>
+    <string name="hint">Input Text</string>
+    <string name="hint_receiver" formatted="true">Receive text</string>
+</resources>
